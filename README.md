@@ -1,2 +1,2 @@
-# Regression on Vinho Verde in R
+# Regression on Vinho Verde
 Final report published as pdf.
