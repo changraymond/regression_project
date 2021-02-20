@@ -1,2 +1,2 @@
 # Regression on Vinho Verde
-Regression on Wine Data
+Final report published as pdf.
